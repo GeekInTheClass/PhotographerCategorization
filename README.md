@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Phtographer Categorization
 
 ## 인상사진가

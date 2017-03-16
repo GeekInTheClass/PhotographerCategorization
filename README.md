@@ -1,4 +1,4 @@
-#Phtographer Categorization
+# Phtographer Categorization
 
 ## [인상사진가](https://github.com/GeekInTheClass/PhotographerCategorization/blob/master/ImagePhoto.md)
 	

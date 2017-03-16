@@ -1,6 +1,8 @@
 # Phtographer Categorization
 
 ## [인상사진가](https://github.com/GeekInTheClass/PhotographerCategorization/blob/master/ImagePhoto.md)
+
+![asd](./source/FrontImage)[](https://github.com/GeekInTheClass/PhotographerCategorization/blob/master/ImagePhoto.md)
 	
 ## [광고사진가](https://github.com/GeekInTheClass/PhotographerCategorization/blob/master/AdverPhoto.md)
 	

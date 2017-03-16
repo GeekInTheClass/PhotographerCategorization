@@ -13,7 +13,7 @@
 # [리차드 아벤든(Richard Avendon)](https://en.wikipedia.org/wiki/Richard_Avedon#Noted_photographs)
 
 >	아벤든은 인물 사진이 인물의 개성과 영혼을 포착하는 방법에 항상 관심이 있었습니다. 그의 초상화는 완전히 하얀 배경에서, 사람들이 카메라를 정면으로 응시하는 미니멀한 스타일로 두드러졌습니다. 부드러운 조명과 소품을 배제함으로써, 아벤든은 그의 내면에 초점을 맞추어 많은 감정과 반응을 불러 일으켰습니다.
-> ![PhotobyRichard][]
+> ![PhotobyRichard][][](https://en.wikipedia.org/wiki/Richard_Avedon#Noted_photographs)
 >> [Dr. J. Robert Oppenheimer][PhotobyRichard]
 
 <a name="Roy">	

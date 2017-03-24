@@ -24,7 +24,9 @@
 >
 > ![PhotobyRichard][]
 >> [Dr. J. Robert Oppenheimer][PhotobyRichard]
->
+> <br /> 
+> <br />
+
 > ![PhotobyRichard2][]
 >> [Bob Dylan, singer, New York City, February 10, 1965][PhotobyRichard2]
 
